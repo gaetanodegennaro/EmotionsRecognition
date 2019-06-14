@@ -1,0 +1,33 @@
+﻿  moc_UI.cpp
+  LoadAction.cpp
+  RealTimeAction.cpp
+  RegisterAction.cpp
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 2 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 3 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 4 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 5 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 6 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 7 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 8 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 9 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 10 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 11 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\LoadAction.cpp(450,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 12 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 2 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 3 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 4 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 5 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 6 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 7 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 8 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 9 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 10 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 11 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 12 è 'std::string'
+  UI.cpp
+  main.cpp
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477:  'fprintf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 13 è 'std::string'
+C:\Users\Gaetano\Desktop\Emotion\Emotion\RealTimeAction.cpp(574,14): warning C4477: C:\Users\Gaetano\Desktop\Emotion\Emotion\UI.cpp(29) : warning C4715: 'UI::getWebcam': non tutti i percorsi di controllo restituiscono un valore
+  Emotion.vcxproj -> C:\Users\Gaetano\Desktop\Emotion\x64\Release\Emotion.exe
